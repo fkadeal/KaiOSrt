@@ -1,1 +1,18 @@
 https://addons.mozilla.org/en-US/firefox/addon/disabled-add-on-fix-57-60/
+
+Installing webIDE
+
+Download firefox v59 (before installing make sure the previous version of firefox is uninstalled) 
+https://ftp.mozilla.org/pub/firefox/releases/59.0/win64/en-US/
+
+I would also suggest disabling auto updates once Firefox is installed
+Menu > options > general
+ 
+
+Add this addon 
+https://addons.mozilla.org/en-US/firefox/addon/disabled-add-on-fix-57-60/
+Once everything is installed
+•	in Firefox go to Tools > Web Developer >WebIDE
+•	on right should see “USB Devices” and should have one device 
+•	on the left have “Open Packaged App” – click it, and choose some app (a folder) 
+•	middle top click the play button… that’s it, app should be on your phone and you should notice it.
